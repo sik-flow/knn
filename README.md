@@ -1,1 +1,1 @@
-# knn
+Notebook and datasets used for the K-Nearest Neighbors Study Group
